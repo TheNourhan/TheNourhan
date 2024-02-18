@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nourhan</h1>
-<h3 align="center">I'm a senior software engineering student 🎓 with strong skills in computer science fundamentals such as object-oriented programming, data structures, algorithms, and databases. Currently, I'm deeply interested in web development using the MERN stack.</h3>
+<h1 align="center">Hi 👋, I'm Nourhan (Software Engineer - Web Developer) </h1>
+<h3 align="center">I'm a senior Information Technology Engineering student 🎓 with strong skills in computer science fundamentals such as object-oriented programming, data structures, algorithms, and databases. Currently, I'm deeply interested in web development using the MERN stack.</h3>
 
 ## 🌱 I’m currently working on
 
