@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nourhan (Software Engineer - Web Developer) </h1>
 <h3 align="center">I'm a senior Information Technology Engineering student 🎓 with strong skills in computer science fundamentals such as object-oriented programming, data structures, algorithms, and databases. Currently, I'm deeply interested in web development using the MERN stack.</h3>
 
+## 💼 Projects
+
+Here are some of the projects I've been working on:
+
+1. [Multiplayer-Chess-Game]([Link to Project 1](https://github.com/TheNourhan/Multiplayer-Chess-Game))
+   - Description: Real-time multiplayer chess game.
+   - Technologies used: Node.js, Express.js, Socket.IO, MongoDB, JavaScript, EJS, and CSS.
+
 ## 🌱 I’m currently working on
 
 - Exploring advanced concepts in web development
