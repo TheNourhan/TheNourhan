@@ -82,18 +82,19 @@ Here are some of the projects I've been working on:
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
-<br>
-
-  Feel free to reach out and connect with me! 😊
-  
-  
+ 
 </p>
 
 <!------------------------------------ Cards--------------->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenourhan&show_icons=true&locale=en&layout=compact" alt="thenourhan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenourhan&show_icons=true&locale=en" alt="thenourhan" /></p>
 
-
+<!---
 ## Hackathon Participation
 [![An image of @thenourhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thenourhan)](https://holopin.io/@thenourhan)
+--->
 
+
+<br>
+
+  Feel free to reach out and connect with me! 😊
