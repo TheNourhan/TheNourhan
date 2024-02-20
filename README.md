@@ -82,6 +82,9 @@ Here are some of the projects I've been working on:
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
+<br>
+
+  Feel free to reach out and connect with me! 😊
   
   
 </p>
