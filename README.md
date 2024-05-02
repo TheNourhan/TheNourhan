@@ -4,8 +4,11 @@
 ## 💼 Projects
 
 Here are some of the projects I've been working on:
-
-1. [Multiplayer-Chess-Game]([Link to Project 1](https://github.com/TheNourhan/Multiplayer-Chess-Game))
+1. [Trekkers]([Link to Project 1](https://github.com/TheNourhan/Social-Media-Website))
+   - Description: Social Media Website.
+   - Technologies used: Node.js, Express.js, Socket.IO, MongoDB, React.
+   - 
+2. [Multiplayer-Chess-Game]([Link to Project 1](https://github.com/TheNourhan/Multiplayer-Chess-Game))
    - Description: Real-time multiplayer chess game.
    - Technologies used: Node.js, Express.js, Socket.IO, MongoDB, JavaScript, EJS, and CSS.
 
