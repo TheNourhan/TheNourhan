@@ -20,9 +20,6 @@ Here are some of the projects I've been working on:
 ## 🌱 I’m currently learning
 - React
 
-## 📫 How to reach me
-- **nourhan.m.hasan@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/thenourhan" target="blank">
