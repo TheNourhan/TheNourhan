@@ -27,8 +27,6 @@ I'm Nourhan Hasan, a passionate Software Engineer with a love for crafting effic
 ## GitHub Stats
 
 🌟 **Public Repositories:** 20  
-👥 **Followers:** 5  
-➡️ **Following:** 3  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenourhan&show_icons=true&locale=en&layout=compact" alt="thenourhan" /></p>
