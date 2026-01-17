@@ -4,7 +4,8 @@ I'm Nourhan Hasan, a passionate Software Engineer with a love for crafting effic
 
 ## About Me
 
-6+ months of professional experience in front-end and back-end web development, senior IT engineering student with strong computer science fundamentals skills.
+1+ Year of professional experience in front-end and back-end web development, fresh IT engineering graduate with strong computer science fundamentals skills.
+Open source contributed to Chromium and GitLab.
 
 ## Skills & Technologies
 
@@ -23,15 +24,6 @@ I'm Nourhan Hasan, a passionate Software Engineer with a love for crafting effic
 3. [Pharma-Production](https://github.com/TheNourhan/Pharma-Production)
    - Description: Comprehensive management system.
    - Technologies Java Swing Frame, Oracle SQL,
-
-## GitHub Stats
-
-🌟 **Public Repositories:** 20  
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenourhan&show_icons=true&locale=en&layout=compact" alt="thenourhan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenourhan&show_icons=true&locale=en" alt="thenourhan" /></p>
-
 
 ## Connect with Me
 
