@@ -5,7 +5,7 @@ I'm Nourhan Hasan, a passionate Software Engineer with a love for crafting effic
 ## About Me
 
 1+ Year of professional experience in front-end and back-end web development, fresh IT engineering graduate with strong computer science fundamentals skills.
-Open source contributed to Chromium and GitLab.
+Open source contributed to [Chromium](https://github.com/chromium/chromium) and [GitLab](https://about.gitlab.com/).
 
 ## Skills & Technologies
 
