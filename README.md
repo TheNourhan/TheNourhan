@@ -4,8 +4,8 @@ I'm Nourhan Hasan, a passionate Software Engineer with a love for crafting effic
 
 ## About Me
 
-1+ Year of professional experience in front-end and back-end web development, fresh IT engineering graduate with strong computer science fundamentals skills.
-Open source contributed to [Chromium](https://github.com/chromium/chromium) and [GitLab](https://about.gitlab.com/).
+1+ years of professional experience in front-end and back-end web development, fresh IT engineering graduate with strong computer science fundamentals skills.
+Open source contributor in [Chromium](https://github.com/chromium/chromium) and [GitLab](https://about.gitlab.com/).
 
 - [A list of my open source contributions](https://gist.github.com/TheNourhan/b8cf1515e508288ae49dfa6011582a3f)
 
@@ -25,7 +25,7 @@ Open source contributed to [Chromium](https://github.com/chromium/chromium) and 
 
 3. [Pharma-Production](https://github.com/TheNourhan/Pharma-Production)
    - Description: Comprehensive management system.
-   - Technologies Java Swing Frame, Oracle SQL,
+   - Technologies: Java Swing Frame, Oracle SQL,
 
 ## Connect with Me
 
