@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Nourhan Hasan, a passionate Software Engineer with a love for crafting efficient and scalable solutions. Let's build something great together!
+I'm Nourhan H., a passionate Software Engineer with a love for crafting efficient and scalable solutions. Let's build something great together!
 
 ## About Me
 
@@ -29,7 +29,7 @@ Open source contributor in [Chromium](https://github.com/chromium/chromium) and 
 
 ## Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/nourhan-hasan)
+- [Linkedin](https://www.linkedin.com/in/nourhanh/)
 
 - [Leetcode](https://www.leetcode.com/thenourhan)
 
