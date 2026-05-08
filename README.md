@@ -4,8 +4,9 @@ I'm Nourhan, a passionate Software Engineer with a love for crafting efficient a
 
 ## About Me
 
-1+ years of professional experience in full-stack development, fresh IT engineering graduate with strong computer science fundamentals skills.
+- 1+ years of professional experience in full-stack development, fresh IT engineering graduate with strong computer science fundamentals skills.
 Open source contributor in [Dart](https://dart.dev/), [Chromium](https://github.com/chromium/chromium) and, [GitLab](https://about.gitlab.com/).
+- Accepted into [Google Summer of Code](https://summerofcode.withgoogle.com/) 2026 at Dart to work on [Inspect native memory in Dart DevTools](https://summerofcode.withgoogle.com/programs/2026/projects/lH8t9v3H).
 
 - [A list of my open source contributions](https://gist.github.com/TheNourhan/b8cf1515e508288ae49dfa6011582a3f)
 <p align="center">
